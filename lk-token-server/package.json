@@ -1,9 +1,0 @@
-{
-  "name": "livedots-token-server",
-  "type": "module",
-  "version": "1.0.0",
-  "license": "MIT",
-  "dependencies": {
-    "livekit-server-sdk": "^2.3.0"
-  }
-}
